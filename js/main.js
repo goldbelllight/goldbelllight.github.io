@@ -91,9 +91,9 @@ window.addEventListener('DOMContentLoaded', function () {
         if(scrollTop >= 2230){
             $('.menutab2').addClass('on');
         }
-        if(scrollTop <= 2100){
-            $('.menutab2').removeClass('on');
-        }
+//         if(scrollTop <= 2100){
+//             $('.menutab2').removeClass('on');
+//         }
 
 
 
