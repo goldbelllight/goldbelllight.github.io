@@ -59,18 +59,18 @@ window.addEventListener('DOMContentLoaded', function () {
 
         $('.pfbg').addClass('on');
         }
-        if(scrollTop >= 2700){
+//         if(scrollTop >= 2700){
 
-            $('.pfbg').removeClass('on');
-        }
-        if(scrollTop <= 385){
+//             $('.pfbg').removeClass('on');
+//         }
+//         if(scrollTop <= 385){
 
-            $('.pfbg').removeClass('on');
-            $('.pfrow').removeClass('on');
-            $('.pfcolumn').removeClass('on');
-            $('.pftitle').removeClass('on');
-            $('.pfcontent').removeClass('on');
-            }
+//             $('.pfbg').removeClass('on');
+//             $('.pfrow').removeClass('on');
+//             $('.pfcolumn').removeClass('on');
+//             $('.pftitle').removeClass('on');
+//             $('.pfcontent').removeClass('on');
+//             }
 
 
     // section 01 //////////////////////////////// profile //////////////////////////////////////////
