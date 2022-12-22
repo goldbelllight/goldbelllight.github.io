@@ -708,7 +708,8 @@
 }
 #section01 .by{
    position: absolute;
-   left: 1126px;
+/*    left: 1126px; */
+   right: 166px;
    top: 910px;
    z-index: 1;
    transition: 1.5s;
@@ -721,7 +722,8 @@
 }
 #section01 .dieterrams{
    position: absolute;
-   left: 1126px;
+/*    left: 1126px; */
+   right: 166px
    top: 955px;
    z-index: 1;
    transform: translateY(-150px);
