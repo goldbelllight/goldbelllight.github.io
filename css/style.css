@@ -671,7 +671,7 @@
    transform: none;
    opacity: 1;
 }
-#section01 .light11{
+/* #section01 .light11{
    position: absolute;
    left: 1510px;
    top: 910px;
@@ -715,7 +715,7 @@
    transition: 1.5s;
    transition-delay: 2s;
    opacity: 0;
-}
+} */
 #section01 .by.on{
    transform: none;
    opacity: 1;
@@ -723,7 +723,7 @@
 #section01 .dieterrams{
    position: absolute;
 /*    left: 1126px; */
-   right: 166px
+   right: 166px;
    top: 955px;
    z-index: 1;
    transform: translateY(-150px);
