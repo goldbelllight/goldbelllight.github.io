@@ -28,7 +28,7 @@
 
 
 
-
+/* 
 .back{
    position: absolute;
    left: 65px;
@@ -39,7 +39,7 @@
    @keyframes updown {
       0% {margin-top: 0px;}
       100% {margin-top: -22px;}
-}
+} */
 .kjh{
    position: absolute;
    height: 36px;
@@ -47,14 +47,14 @@
    left: 65px;
    top: 36px;
    z-index: 10;
-   animation: kjh 1s ease-in-out 0.07s infinite alternate;
+/*    animation: kjh 1s ease-in-out 0.07s infinite alternate;
    overflow: hidden;
    vertical-align:top;}
    @keyframes kjh {
    13%, 25% {height: 2.5%;}
-   67%, 100% {height:0%;} 
+   67%, 100% {height:0%;}  */
 }
-.kjh2{
+/* .kjh2{
    position: absolute;
    height: 36px;
    width: 100%;
@@ -73,7 +73,7 @@
    @keyframes updown {
       0% {margin-top: 0px;}
       100% {margin-top: -22px;}
-}
+} */
 
 .website{
    position: relative;
@@ -643,7 +643,8 @@
 
 #section01 .subtitle{
    position: absolute;
-   left: 1550px;
+/*    left: 1550px; */
+   right: 40px;
    top: 230px;
    z-index: 1;
    transform: translateX(-300px);
@@ -657,7 +658,8 @@
 }
 #section01 .subtitle2{
    position: absolute;
-   left: 1735px;
+/*    left: 1735px; */
+   right: 40px;
    top: 280px;
    z-index: 1;
    transform: translateY(300px);
